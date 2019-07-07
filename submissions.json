@@ -796,6 +796,23 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF56649291": {
+    "contest_id": 734,
+    "language": "GNU C++14",
+    "path": "codeforces\\734\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF56649291",
+    "submission_url": "https://codeforces.com/contest/734/submission/56649291",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/07/2019 12:58"
+  },
   "CF56810150": {
     "contest_id": 1189,
     "language": "GNU C++14",
