@@ -796,6 +796,23 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF60681804": {
+    "contest_id": 903,
+    "language": "GNU C++17",
+    "path": "codeforces\\903\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hungry Student Problem",
+    "problem_url": "https://codeforces.com/contest/903/problem/A",
+    "submission_id": "CF60681804",
+    "submission_url": "https://codeforces.com/contest/903/submission/60681804",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/16/2019 19:39"
+  },
   "CF60685846": {
     "contest_id": 672,
     "language": "GNU C++17",
