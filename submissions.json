@@ -796,6 +796,22 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF60968827": {
+    "contest_id": 1216,
+    "language": "GNU C++17",
+    "path": "codeforces\\1216\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prefixes",
+    "problem_url": "https://codeforces.com/contest/1216/problem/A",
+    "submission_id": "CF60968827",
+    "submission_url": "https://codeforces.com/contest/1216/submission/60968827",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/21/2019 12:43"
+  },
   "CF60981193": {
     "contest_id": 1216,
     "language": "GNU C++17",
