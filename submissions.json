@@ -796,6 +796,24 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF94290685": {
+    "contest_id": 431,
+    "language": "GNU C++17",
+    "path": "codeforces\\431\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "k-Tree",
+    "problem_url": "https://codeforces.com/contest/431/problem/C",
+    "submission_id": "CF94290685",
+    "submission_url": "https://codeforces.com/contest/431/submission/94290685",
+    "tags": [
+      "dp",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Sep/30/2020 18:22"
+  },
   "CF94393780": {
     "contest_id": 441,
     "language": "GNU C++17",
