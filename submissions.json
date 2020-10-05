@@ -796,6 +796,25 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF94765590": {
+    "contest_id": 490,
+    "language": "GNU C++17",
+    "path": "codeforces\\490\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hacking Cypher",
+    "problem_url": "https://codeforces.com/contest/490/problem/C",
+    "submission_id": "CF94765590",
+    "submission_url": "https://codeforces.com/contest/490/submission/94765590",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Oct/05/2020 17:46"
+  },
   "CF94791868": {
     "contest_id": 463,
     "language": "GNU C++17",
