@@ -796,6 +796,22 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF95490384": {
+    "contest_id": 152,
+    "language": "GNU C++17",
+    "path": "codeforces\\152\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pocket Book",
+    "problem_url": "https://codeforces.com/contest/152/problem/C",
+    "submission_id": "CF95490384",
+    "submission_url": "https://codeforces.com/contest/152/submission/95490384",
+    "tags": [
+      "combinatorics",
+      "*1400"
+    ],
+    "timestamp": "Oct/14/2020 14:50"
+  },
   "CF95518635": {
     "contest_id": 109,
     "language": "GNU C++17",
