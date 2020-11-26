@@ -796,6 +796,22 @@
     ],
     "timestamp": "Dec/29/2020 17:18"
   },
+  "CF99638165": {
+    "contest_id": 999,
+    "language": "GNU C++17",
+    "path": "codeforces\\999\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reversing Encryption",
+    "problem_url": "https://codeforces.com/contest/999/problem/B",
+    "submission_id": "CF99638165",
+    "submission_url": "https://codeforces.com/contest/999/submission/99638165",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/26/2020 17:51"
+  },
   "CF99640113": {
     "contest_id": 999,
     "language": "GNU C++17",
