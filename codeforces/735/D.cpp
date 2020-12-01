@@ -20,20 +20,33 @@ ll mod = 1e9 + 7;
     cin.tie(NULL);                    \
     cout.tie(NULL)
 
+ll Pow(ll n, ll p, ll m)
+{
+    if (!p)
+        return 1;
+    else if (p & 1)
+        return (n * Pow(n, p - 1, m)) % m;
+    else
+    {
+        ll v = Pow(n, p / 2, m);
+        return (v * v) % m;
+    }
+}
 bool isprime(ll n)
 {
-    // Corner cases
-    if (n <= 1)
+    if (n < 2)
         return false;
-    if (n <= 3)
-        return true;
-    if (n % 2 == 0 || n % 3 == 0)
-        return false;
-
-    for (ll i = 5; i * i <= n; i = i + 6)
-        if (n % i == 0 || n % (i + 2) == 0)
+    for (ll i = 2; i * i * i <= n; ++i)
+        if (n % i == 0)
             return false;
-
+    for (int it = 0; it < 1e5; ++it)
+    {
+        ll i = rand() % (n - 1) + 1;
+        if (__gcd(i, n) != 1)
+            return false;
+        if (Pow(i, n - 1, n) != 1)
+            return false;
+    }
     return true;
 }
 void solve()
