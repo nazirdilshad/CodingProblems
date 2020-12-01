@@ -1,4 +1,21 @@
 {
+  "CF100092093": {
+    "contest_id": 735,
+    "language": "GNU C++17",
+    "path": "codeforces\\735\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ostap and Grasshopper",
+    "problem_url": "https://codeforces.com/contest/735/problem/A",
+    "submission_id": "CF100092093",
+    "submission_url": "https://codeforces.com/contest/735/submission/100092093",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/01/2020 13:23"
+  },
   "CF100094667": {
     "contest_id": 735,
     "language": "GNU C++17",
