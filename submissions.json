@@ -1,4 +1,21 @@
 {
+  "CF100116779": {
+    "contest_id": 779,
+    "language": "GNU C++17",
+    "path": "codeforces\\779\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pupils Redistribution",
+    "problem_url": "https://codeforces.com/contest/779/problem/A",
+    "submission_id": "CF100116779",
+    "submission_url": "https://codeforces.com/contest/779/submission/100116779",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/01/2020 18:59"
+  },
   "CF100118548": {
     "contest_id": 779,
     "language": "GNU C++17",
