@@ -1,4 +1,23 @@
 {
+  "CF101181170": {
+    "contest_id": 1348,
+    "language": "GNU C++17",
+    "path": "codeforces\\1348\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Phoenix and Beauty",
+    "problem_url": "https://codeforces.com/contest/1348/problem/B",
+    "submission_id": "CF101181170",
+    "submission_url": "https://codeforces.com/contest/1348/submission/101181170",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/14/2020 20:24"
+  },
   "CF101227163": {
     "contest_id": 1363,
     "language": "GNU C++17",
